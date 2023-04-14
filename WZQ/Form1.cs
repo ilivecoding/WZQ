@@ -22,6 +22,7 @@ namespace WZQ
             this.Text = "WZQ";
             this.FormBorderStyle = FormBorderStyle.Fixed3D;
             this.MaximizeBox = false;
+            this.StartPosition = FormStartPosition.CenterScreen;
         }
         private void Form1_Load(object sender, EventArgs e)
         {
